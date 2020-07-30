@@ -1,0 +1,24 @@
+.picture{
+  height: 600px;
+  width:900px;
+  padding-left: 1em;
+}
+.card-group{
+  padding-left: 1em;
+}
+.card-title .title{
+  text-decoration: underline lightgreen;
+}
+
+.navbar{
+  padding-left: 1px;
+  color: white;
+  margin-left: 1em;
+  margin-bottom: 1em;
+}
+.image{
+  width:200px;
+}
+.card{
+  padding-left: 1em;
+}
